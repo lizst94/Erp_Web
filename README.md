@@ -15,7 +15,7 @@
 
 ## **📝 포트폴리오 개요**
 
-<img width="100%" alt="메인 페이지" src="https://github.com/lizst94/Erp-Web/assets/134988273/6f068666-10d5-435c-ac2f-10085efc70b9" />
+<img width="100%" alt="메인 페이지" src="https://github.com/lizst94/lizst94.github.io/assets/134988273/2a4d4014-b3b4-4798-8a60-8f627500e1fd" />
 
 > **프로젝트:** 웹 기반 ERP 프로그래밍
 >
@@ -52,7 +52,7 @@
 
 ### **1. 거래목록표**
 
-<img width="100%"  height="60%" alt="dataTable" src="https://github.com/lizst94/Erp-Web/assets/134988273/1c1180eb-db7c-4f49-893f-1f43fe0c7922" />
+<img width="100%"  height="60%" alt="dataTable" src="https://github.com/lizst94/lizst94.github.io/assets/134988273/218783e6-c1d8-4499-81a9-64321cab54e3" />
 
 <br />
 
@@ -63,7 +63,7 @@
 
 ### **2. 엑셀 export**
 
-<img width="100%"  height="60%" alt="csv" src="https://github.com/lizst94/Erp-Web/assets/134988273/79cc03b8-0c41-44f0-91aa-1a9f9ca53aec" />
+<img width="100%"  height="60%" alt="csv" src="https://github.com/lizst94/lizst94.github.io/assets/134988273/d8361421-145b-4db4-aa61-fc73a05d1883" />
 
 <br />
 
@@ -73,7 +73,7 @@
 
 ### **3. 거래처별 차트**
 
-<img width="100%" height="60%" alt="hashlink" src="https://github.com/lizst94/Erp-Web/assets/134988273/34ec8d44-902e-4e89-a3b6-d72868c23e37" />
+<img width="100%" height="60%" alt="hashlink" src="https://github.com/lizst94/lizst94.github.io/assets/134988273/41d9877d-45a5-48ea-b1a6-1ea5b2749f26" />
 
 <br />
 
