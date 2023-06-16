@@ -64,7 +64,7 @@
 <br />
 Sql 코드 https://github.com/lizst94/lizst94.github.io/blob/6058115edec85e6deb47da29a58725c468bad258/src/main/java/com/Erp/repository/TransactionRepository.java#L17-L33
 <br />
-Controller 코드 https://github.com/lizst94/lizst94.github.io/blob/6058115edec85e6deb47da29a58725c468bad258/src/main/java/com/Erp/controller/TransactionController.java#L35C3-L85
+Controller 코드 https://github.com/lizst94/lizst94.github.io/blob/77ec72161ac331dc6319a46db19829d3c8b169b8/src/main/java/com/Erp/controller/TransactionController.java#L35-L85
 
 ### **2. 엑셀 export**
 
