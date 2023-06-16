@@ -56,7 +56,9 @@
 
 <br />
 
-[코드보기](https://github.com/lizst94/lizst94.github.io/blob/6058115edec85e6deb47da29a58725c468bad258/src/main/java/com/Erp/controller/TransactionController.java#L35C3-L85)
+[Controller 코드](https://github.com/lizst94/lizst94.github.io/blob/6058115edec85e6deb47da29a58725c468bad258/src/main/java/com/Erp/controller/TransactionController.java#L35C3-L85)
+<br />
+[Sql 코드](https://github.com/lizst94/lizst94.github.io/blob/6058115edec85e6deb47da29a58725c468bad258/src/main/java/com/Erp/repository/TransactionRepository.java#L17-L33)
 
 - 입고, 출고 등록시 거래목록표에 관련된 데이터를 수집하여 거래처 엔터티에 가공 및 저장, 이를 통해 거래처별로 종합적인 정보를 생성하고 활용, 실시간 데이터 확인 가능
 - DataTables(servaer Side)를 이용한 대용량 처리 표 생성(검색,페이징,정렬기능구현) 
