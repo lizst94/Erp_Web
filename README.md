@@ -80,7 +80,8 @@
 <img width="100%" height="60%" alt="hashlink" src="https://github.com/lizst94/lizst94.github.io/assets/134988273/41d9877d-45a5-48ea-b1a6-1ea5b2749f26" />
 
 <br />
-
+[controller 코드](https://github.com/lizst94/lizst94.github.io/blob/da6a3fc350d4b1791c644432dd4b0f7840fd5f04/src/main/java/com/Erp/controller/TransactionController.java#L87-L109)
+[javascript 코드](https://github.com/lizst94/lizst94.github.io/blob/da6a3fc350d4b1791c644432dd4b0f7840fd5f04/src/main/resources/static/js/financial/transactionChart/SelectBox.js#L14-L318)
 - chart JS사용, PopUp 창안에 select box를 이용해 거래분류별, 거래처별, 연도를 클라이언트에게 받고
 - ajax를 이용해 조건에 맞는 데이터의 연도별 거래금액, 분기별 거래금액을 chart로 표현
 - 등록된 데이터의 입고, 출고별 거래량 Top5
