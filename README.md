@@ -15,7 +15,7 @@
 
 ## **📝 포트폴리오 개요**
 
-<img width="100%" alt="메인 페이지" src="https://github.com/lizst94/lizst94.github.io/assets/134988273/2a4d4014-b3b4-4798-8a60-8f627500e1fd" />
+<img width="100%" alt="메인 페이지" src="https://github.com/lizst94/lizst94.github.io/assets/134988273/b2383bba-a71e-42f8-b71f-b1a4f2b40c50" />
 
 > **프로젝트:** 웹 기반 ERP 프로그래밍
 >
